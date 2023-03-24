@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package libraryassignment;
+import java.util.Scanner;
+
+/**
+ *
+ * @author User
+ */
+public class LibraryAssignment {
+    static Scanner scanner = new Scanner(System.in);
+    int book_number;
+    String title, first_name, last_name; 
+    
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+    
+}
